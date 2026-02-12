@@ -1,0 +1,6 @@
+# Definition Graph Database — Definitions
+#
+# This folder will contain:
+# - Neo4j graph schema definitions (node/relationship types)
+# - Cypher migration scripts
+# - CDC mapping configuration (PostgreSQL → Neo4j)
