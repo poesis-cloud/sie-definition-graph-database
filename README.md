@@ -12,7 +12,7 @@ GSM definitions form a rich graph of systemic primitives (Systems, Components, M
 - **Impact analysis**: trace which primitives are affected by a definition change (multi-hop traversal)
 - **Coherence analysis**: detect circular dependencies, unreachable definitions, structural anomalies
 - **Architecture visualization**: feed graph data to diagram renderers for governance visualization
-- **Cross-system governance**: traverse SystemGovernance relationships (heterarchy) across supersystem/subsystem boundaries
+- **Cross-system governance**: traverse OrganizationalRelationship relationships (heterarchy) across supersystem/subsystem boundaries
 
 ## Architecture
 
