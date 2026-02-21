@@ -8,7 +8,7 @@ In SIE's six-plane, two-layer architecture, the Definition Graph Store provides 
 
 GSM definitions form a rich graph of systemic primitives (Systems, Components, Mechanisms, Interfaces, Channels, Interactions, etc.) with typed relationships (governance authority, structural composition, behavioral coupling). While PostgreSQL handles ACID transactions and relational integrity, Neo4j provides:
 
-- **Graph traversal queries**: navigate PPRC chains (Principle → Policy → Rule → Control → Mechanism) efficiently
+- **Graph traversal queries**: navigate PPR chains (Principle → Policy → Rule → Mechanism) efficiently
 - **Impact analysis**: trace which primitives are affected by a definition change (multi-hop traversal)
 - **Coherence analysis**: detect circular dependencies, unreachable definitions, structural anomalies
 - **Architecture visualization**: feed graph data to diagram renderers for governance visualization
