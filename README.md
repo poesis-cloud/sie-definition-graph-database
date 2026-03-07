@@ -36,4 +36,4 @@ GSM definitions form a rich graph of systemic primitives (Systems, Components, M
 
 ## Notes
 
-This repo is in a design-oriented phase; deployment scaffolding (Helm charts, Docker compose) will be added when the graph schema stabilizes.
+This repo is in a design-oriented phase; deployment scaffolding (Helm charts) will be added when the graph schema stabilizes.
