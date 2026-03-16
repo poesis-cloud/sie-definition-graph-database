@@ -16,7 +16,7 @@ GSM definitions form a rich graph of systemic primitives (Systems, Components, M
 
 ## Architecture
 
-```
+```text
 ┌──────────────────────────┐      CDC       ┌──────────────────────────┐
 │  Definition Store        │ ─────────────→ │  Definition Graph Store  │
 │  (PostgreSQL + JSONB)    │  (Debezium /   │  (Neo4j)                 │
