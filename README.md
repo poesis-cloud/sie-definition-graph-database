@@ -30,9 +30,9 @@ GSM definitions form a rich graph of systemic primitives (Systems, Components, M
 
 ## What's in here
 
-- `definition/`: graph schema definitions, Cypher migration scripts, CDC mapping configuration
+- `def/`: graph schema definitions, Cypher migration scripts, CDC mapping configuration
 - `README.md`: this file
-- `LICENSE`: proprietary license
+- `LICENSE`: Business Source License 1.1 (BUSL-1.1)
 
 ## Notes
 
